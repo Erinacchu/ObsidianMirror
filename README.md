@@ -4,7 +4,7 @@ This page serves as a mirror to my obsidian notes.
 
 The use is only for private purposes, this domain should not be publicly discoverable.
 
-![](https://i.imgur.com/8mKP2hV.png)
+![](https://i.imgur.com/FkPtll9.png)
 
 ## Host it yourself
 
