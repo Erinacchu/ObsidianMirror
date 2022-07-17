@@ -4,6 +4,8 @@ This page serves as a mirror to my obsidian notes.
 
 The use is only for private purposes, this domain should not be publicly discoverable.
 
+![](https://i.imgur.com/8mKP2hV.png)
+
 ## Host it yourself
 
 ```git
