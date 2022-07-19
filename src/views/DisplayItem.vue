@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import Anzeige from "@/components/Anzeige.vue";
+import Anzeige from "@/components/MdAnzeige.vue";
 
-import Item from "@/components/Item.vue";
+import Item from "@/components/SubdirMenu.vue";
 const props = defineProps<{
   dir: string;
   file: string;

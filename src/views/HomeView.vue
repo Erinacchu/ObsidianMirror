@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Menu from "@/components/Menu.vue";
+import SideMenu from "@/components/SideMenu.vue";
 </script>
 
 <template>
   <Suspense>
     <main>
-      <Menu />
+      <SideMenu />
     </main>
   </Suspense>
 </template>
