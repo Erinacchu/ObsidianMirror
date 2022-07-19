@@ -20,5 +20,8 @@ export default defineConfig({
       ]
     }
   },
-  base: '/<REPO>/'
+  base: '/<REPO>/',
+   mime: {
+	     'text/x-typescript': ['ts','tsx']
+   }
 });
